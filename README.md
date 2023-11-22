@@ -1,3 +1,3 @@
 # Intune-Create-Desktop-Shortcut
 
-These are just modifications from:  https://github.com/JayRHa/Intune-Scripts/tree/main/Create-DesktopShortcut
+These are modifications from:  https://github.com/JayRHa/Intune-Scripts/tree/main/Create-DesktopShortcut
